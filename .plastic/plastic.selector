@@ -1,0 +1,4 @@
+repository "GroupProject@GroupProject1@cloud"
+  path "/"
+    br "/main"
+    co "/main"
